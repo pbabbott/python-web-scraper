@@ -19,7 +19,7 @@ colorzero==1.1
 configparser==4.0.2
 contextlib2==0.6.0.post1
 cookies==2.2.1
-cryptography==2.6.1
+cryptography==3.2
 docker==4.1.0
 docker-compose==1.25.0
 dockerpty==0.4.1
